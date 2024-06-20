@@ -39,7 +39,8 @@ pip install torch torchvision opencv-python matplotlib
 ```image_path = "path/to/your/image.jpg"  # 로컬 이미지 경로를 지정하세요.```
 
 ## 결과 예시
-![image](https://github.com/zip-sa/Image-segmentation_DeepLabV3/assets/49730616/95ae9b89-3de9-44b5-bef7-481b04361183)
+![image](https://github.com/zip-sa/Image-segmentation_DeepLabV3/assets/49730616/9a89571b-02c0-466a-a472-ac029d462013)
+
 
 
 
